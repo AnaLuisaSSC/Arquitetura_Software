@@ -8,9 +8,6 @@ public class Main {
         calc.numB = 3.0;
 
         System.out.println("Soma: " + calc.somar ());
-        System.out.println("subtrair: " + calc.subtrair ());
-         System.out.println("multiplicar: " + calc.multiplicar ());
-        System.out.println("dividir: " + calc.dividir ());
        
      }
     }

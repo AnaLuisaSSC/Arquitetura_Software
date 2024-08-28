@@ -1,4 +1,4 @@
-package aula2;
+package exercicios_java _revisao;
 
 public class Calculadora {
     
@@ -8,18 +8,6 @@ public class Calculadora {
 
     Double somar(){
         return numA + numB;
-
-    }
-    Double subtrair(){
-        return numA - numB;
-
-    }
-    Double multiplicar(){
-        return numA * numB;
-
-    }
-    Double dividir(){
-        return numA / numB;
 
     }
     
