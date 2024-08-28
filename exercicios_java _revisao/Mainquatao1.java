@@ -1,4 +1,4 @@
-package exercicios_JAVA _Revisão;
+package exercicios_java _revisao;
 
 public class Main {
 
