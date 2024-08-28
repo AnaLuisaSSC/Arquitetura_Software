@@ -1,6 +1,6 @@
-package exercicios_java _revisao;
+package exercicios_java_revisao;
 
-public class Main {
+public class Main{
 
      public static void main(String[] args) {
         Calculadora calc = new Calculadora();                     /*calc = definir   new = criou uma nova class */
