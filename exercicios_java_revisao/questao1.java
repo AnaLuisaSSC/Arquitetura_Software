@@ -1,6 +1,6 @@
 package exercicios_java_revisao;
 
-public class Calculadora{
+public class questao1{
     
     Double numA;
     Double numB;
